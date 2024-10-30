@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Horizontal scroll image slideshow\n"
+"POT-Creation-Date: 2015-10-18 17:15+0800\n"
+"PO-Revision-Date: 2015-10-18 17:15+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../horizontal-scroll-image-slideshow.php:120
+#: ../horizontal-scroll-image-slideshow.php:195
+#: ../horizontal-scroll-image-slideshow.php:205
+#: ../horizontal-scroll-image-slideshow.php:211
+#: ../horizontal-scroll-image-slideshow.php:224
+#: ../horizontal-scroll-image-slideshow.php:225
+msgid "Horizontal scroll image slideshow"
+msgstr "Przewijania w poziomie obraz pokaz slajdów"
+
+#: ../horizontal-scroll-image-slideshow.php:147
+msgid "Details successfully updated."
+msgstr "Szczegóły pomyślnie zaktualizowane."
+
+#: ../horizontal-scroll-image-slideshow.php:152
+msgid "Plugin setting"
+msgstr "Ustawienia"
+
+#: ../horizontal-scroll-image-slideshow.php:155
+msgid "Title"
+msgstr "Tytuł"
+
+#: ../horizontal-scroll-image-slideshow.php:157
+msgid "Please enter your widget title."
+msgstr "Podaj widget tytuł."
+
+#: ../horizontal-scroll-image-slideshow.php:159
+msgid "Width"
+msgstr "Szerokość"
+
+#: ../horizontal-scroll-image-slideshow.php:161
+msgid ""
+"Please enter your slideshow width. <br />This width should be the largest "
+"image width in your slideshow."
+msgstr ""
+"Wpisz szerokość pokazu slajdów. <br /> Szerokość ta powinna być największa "
+"szerokość obrazu w pokazie slajdów."
+
+#: ../horizontal-scroll-image-slideshow.php:163
+msgid "Height"
+msgstr "Wysokość"
+
+#: ../horizontal-scroll-image-slideshow.php:165
+msgid "Please enter your slideshow height, Only Number."
+msgstr "Podaj swój wzrost pokaz slajdów, tylko numer."
+
+#: ../horizontal-scroll-image-slideshow.php:167
+msgid "Bgcolor"
+msgstr "Bgcolor"
+
+#: ../horizontal-scroll-image-slideshow.php:169
+msgid "Please enter slideshow bgcolor,"
+msgstr "Podaj pokazu slajdów bgcolor,"
+
+#: ../horizontal-scroll-image-slideshow.php:171
+msgid "Speed"
+msgstr ""
+"Ilości przewijania, oraz opóźnienie przewijania, ustawia szybkość "
+"przewijania."
+
+#: ../horizontal-scroll-image-slideshow.php:173
+msgid "Please enter your slideshow speed, Only Number."
+msgstr "Proszę wprowadzić swoją szybkość pokazu slajdów, tylko numer."
+
+#: ../horizontal-scroll-image-slideshow.php:177
+msgid "Help"
+msgstr "Pomoc"
+
+#: ../horizontal-scroll-image-slideshow.php:181
+msgid "Plugin configuration option"
+msgstr "Opcja konfiguracji plugin"
+
+#: ../horizontal-scroll-image-slideshow.php:183
+msgid "Drag and drop the widget to your sidebar."
+msgstr "Przeciągnij i upuść widget do paska bocznego."
+
+#: ../horizontal-scroll-image-slideshow.php:184
+msgid "Add directly in to the theme using PHP code."
+msgstr "Dodaj bezpośrednio do tematu z wykorzystaniem kodu PHP."
+
+#: ../horizontal-scroll-image-slideshow.php:186
+#: ../horizontal-scroll-image-slideshow.php:197
+msgid "Check official website for more information"
+msgstr "Sprawdzić oficjalną stronę internetową, aby uzyskać więcej informacji"
+
+#: ../horizontal-scroll-image-slideshow.php:187
+#: ../horizontal-scroll-image-slideshow.php:198
+msgid "click here"
+msgstr "kliknij tutaj"

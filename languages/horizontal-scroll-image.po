@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Horizontal scroll image slideshow\n"
+"POT-Creation-Date: 2021-08-25 23:33+0800\n"
+"PO-Revision-Date: 2021-08-25 23:33+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../horizontal-scroll-image-slideshow.php:151
+#: ../horizontal-scroll-image-slideshow.php:233
+#: ../horizontal-scroll-image-slideshow.php:243
+#: ../horizontal-scroll-image-slideshow.php:249
+#: ../horizontal-scroll-image-slideshow.php:267
+#: ../horizontal-scroll-image-slideshow.php:268
+msgid "Horizontal scroll image slideshow"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:184
+msgid "Details successfully updated."
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:189
+msgid "Plugin setting"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:192
+msgid "Title"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:194
+msgid "Please enter your widget title."
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:196
+msgid "Width"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:198
+msgid ""
+"Please enter your slideshow width. <br />This width should be the largest "
+"image width in your slideshow."
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:200
+msgid "Height"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:202
+msgid "Please enter your slideshow height, Only Number."
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:204
+msgid "Bgcolor"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:206
+msgid "Please enter slideshow bgcolor,"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:208
+msgid "Speed"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:210
+msgid "Please enter your slideshow speed, Only Number."
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:212
+msgid "Gallery XML file path"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:214
+msgid "Please enter gallery XML file path."
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:216
+msgid "Example : "
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:221
+msgid "Help"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:222
+msgid "Short Code"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:235
+msgid "Check official website for more information"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:236
+msgid "click here"
+msgstr ""

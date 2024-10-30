@@ -1,0 +1,26 @@
+<gallery>
+  <image>
+    <path>http://www.gopiplus.com/work/wp-content/uploads/pluginimages/250x167/250x167_1.jpg</path>
+    <title>Image 1</title>
+    <link>http://www.gopiplus.com/work/2010/07/18/vertical-scroll-slideshow-gallery-v2/</link>
+	<target>_blank</target>
+  </image>
+  <image>
+    <path>http://www.gopiplus.com/work/wp-content/uploads/pluginimages/250x167/250x167_2.jpg</path>
+    <title>Image 2</title>
+    <link>http://www.gopiplus.com/work/2010/07/18/horizontal-motion-gallery/</link>
+	<target>_parent</target>
+  </image>
+  <image>
+    <path>http://www.gopiplus.com/work/wp-content/uploads/pluginimages/250x167/250x167_3.jpg</path>
+    <title>Image 3</title>
+    <link>http://www.gopiplus.com/work/2010/07/18/horizontal-scroll-image-slideshow/</link>
+	<target>_blank</target>
+  </image>
+  <image>
+    <path>http://www.gopiplus.com/work/wp-content/uploads/pluginimages/250x167/250x167_4.jpg</path>
+    <title>Image 3</title>
+    <link>http://www.gopiplus.com/work/2010/07/18/excellent-transition-gallery/</link>
+	<target>_blank</target>
+  </image>
+</gallery>

@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Horizontal scroll image slideshow\n"
+"POT-Creation-Date: 2016-11-22 22:12+0800\n"
+"PO-Revision-Date: 2016-11-22 22:12+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../horizontal-scroll-image-slideshow.php:120
+#: ../horizontal-scroll-image-slideshow.php:199
+#: ../horizontal-scroll-image-slideshow.php:209
+#: ../horizontal-scroll-image-slideshow.php:215
+#: ../horizontal-scroll-image-slideshow.php:228
+#: ../horizontal-scroll-image-slideshow.php:229
+msgid "Horizontal scroll image slideshow"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:151
+msgid "Details successfully updated."
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:156
+msgid "Plugin setting"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:159
+msgid "Title"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:161
+msgid "Please enter your widget title."
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:163
+msgid "Width"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:165
+msgid ""
+"Please enter your slideshow width. <br />This width should be the largest "
+"image width in your slideshow."
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:167
+msgid "Height"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:169
+msgid "Please enter your slideshow height, Only Number."
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:171
+msgid "Bgcolor"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:173
+msgid "Please enter slideshow bgcolor,"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:175
+msgid "Speed"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:177
+msgid "Please enter your slideshow speed, Only Number."
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:181
+msgid "Help"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:185
+msgid "Plugin configuration option"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:187
+msgid "Drag and drop the widget to your sidebar."
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:188
+msgid "Add directly in to the theme using PHP code."
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:190
+#: ../horizontal-scroll-image-slideshow.php:201
+msgid "Check official website for more information"
+msgstr ""
+
+#: ../horizontal-scroll-image-slideshow.php:191
+#: ../horizontal-scroll-image-slideshow.php:202
+msgid "click here"
+msgstr ""
